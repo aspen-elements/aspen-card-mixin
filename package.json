@@ -27,7 +27,13 @@
     "type": "git",
     "url": "git+https://github.com/aspen-elements/aspen-card-mixin.git"
   },
-  "author": "",
+  "keywords": [
+    "web-components",
+    "aspen-elements",
+    "aspen",
+    "link"
+  ],
+  "author": "Mark Fortner, Ishan Subedi, Marko Ignjatovic, Suyash Adhikary",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/aspen-elements/aspen-card-mixin/issues"
