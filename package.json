@@ -1,7 +1,6 @@
 {
   "description": "This mixin contains the properties and methods required for a card.",
-  "name": "@aspen/aspen-card-mixin",
-  "version": "",
+  "name": "@aspen-elements/aspen-card-mixin",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
@@ -16,5 +15,28 @@
     "@polymer/iron-demo-helpers": "^3.0.0",
     "wct-browser-legacy": "^1.0.1",
     "@webcomponents/webcomponentsjs": "^2.0.0"
-  }
+  },
+  "version": "0.5.1",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspen-elements/aspen-card-mixin.git"
+  },
+  "keywords": [
+    "web-components",
+    "aspen-elements",
+    "aspen",
+    "link"
+  ],
+  "author": "Mark Fortner, Ishan Subedi, Marko Ignjatovic, Suyash Adhikary",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aspen-elements/aspen-card-mixin/issues"
+  },
+  "homepage": "https://github.com/aspen-elements/aspen-card-mixin#readme"
 }
