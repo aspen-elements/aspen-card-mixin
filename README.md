@@ -1,4 +1,4 @@
-# \<aspen-card-mixin\>
+# <aspen-card-mixin\>
 
 This mixin contains the properties and methods required for a card.
 
